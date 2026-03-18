@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <b>Modern Music Control Panel for Streamers</b><br>
-  Manage song requests, queues, and real-time overlays with ease.
+  <b>Panel Kontrol Musik Modern untuk Streamer</b><br>
+  Kelola request lagu, antrian, dan overlay streaming secara real-time dengan mudah dan profesional.
 </p>
 
 ---
@@ -23,203 +23,222 @@
   <img src="https://via.placeholder.com/900x500?text=Overlay+Preview+OBS" width="80%" />
 </p>
 
-> ⚠️ Replace the images above with actual screenshots or GIF previews of your application for a more professional appearance.
+> ⚠️ Silakan ganti gambar di atas dengan screenshot atau GIF asli dari aplikasi untuk tampilan yang lebih profesional.
 
 ---
 
-## ✨ Introduction
+## ✨ Pendahuluan
 
-**DugeonTok Player** is a powerful and modern control panel designed specifically for streamers who need a reliable way to manage music playback, audience song requests, and real-time overlay displays.
+**DugeonTok Player** merupakan sebuah panel kontrol modern yang dirancang khusus untuk membantu streamer dalam mengelola pemutaran musik, menerima request lagu dari audiens, serta menampilkan overlay streaming secara **real-time**.
 
-The application focuses on delivering a **smooth, responsive, and professional streaming experience** by centralizing all music-related controls into a single, easy-to-use interface.
+Aplikasi ini dikembangkan dengan tujuan untuk memberikan pengalaman streaming yang **lebih terstruktur, responsif, dan profesional**, dengan mengintegrasikan seluruh kebutuhan kontrol musik ke dalam satu sistem yang efisien.
 
-With built-in **queue management**, **live overlay synchronization**, and **TikTok Live Chat integration**, DugeonTok Player allows streamers to stay focused on their content while the system handles music and visual updates seamlessly in the background.
+Melalui DugeonTok Player, pengguna tidak perlu lagi berpindah-pindah aplikasi untuk mengatur musik selama live streaming. Seluruh proses mulai dari **request lagu, pengelolaan antrian, kontrol pemutaran, hingga sinkronisasi tampilan overlay** dapat dilakukan dalam satu panel terpadu.
 
----
-
-## 🎯 Core Objectives
-
-- Provide a **centralized music control system** for live streaming
-- Enable **real-time interaction** between audience and streamer
-- Maintain **consistent and professional overlay visuals**
-- Reduce workflow complexity during live sessions
-- Improve **viewer engagement and experience**
+Selain itu, aplikasi ini juga mendukung integrasi dengan **TikTok Live Chat**, sehingga penonton dapat berinteraksi secara langsung dengan mengirimkan request lagu yang akan diproses secara otomatis oleh sistem.
 
 ---
 
-## 🚀 Key Features
+## 🎯 Tujuan Pengembangan
 
-### 🎶 Smart Music Request System
-- Supports song requests from:
+DugeonTok Player dikembangkan dengan beberapa tujuan utama:
+
+- Menyediakan **sistem kontrol musik terpusat** untuk kebutuhan live streaming  
+- Meningkatkan **interaksi real-time antara streamer dan audiens**  
+- Menjaga **konsistensi tampilan overlay** agar terlihat profesional  
+- Mengurangi kompleksitas workflow selama siaran langsung  
+- Meningkatkan **pengalaman dan engagement penonton**  
+
+---
+
+## 🚀 Fitur Utama
+
+### 🎶 Sistem Request Lagu Otomatis
+- Mendukung request lagu dari:
   - YouTube  
   - Deezer  
-- Automatic parsing and queue insertion  
-- Real-time request handling  
+- Pemrosesan link dan pencarian lagu secara otomatis  
+- Integrasi langsung ke dalam sistem antrian  
 
-### 📋 Advanced Queue Management
-- Dynamic queue system  
-- Reordering, skipping, and prioritization  
-- Auto-play and continuous playback  
+### 📋 Manajemen Antrian (Queue)
+- Sistem antrian dinamis dan real-time  
+- Pengaturan urutan lagu secara fleksibel  
+- Fitur skip, prioritas, dan auto-play  
 
-### 🖥️ Real-Time Overlay Engine
-- Browser-based overlay system  
-- Fully customizable UI (color, font, layout, effects)  
-- Instant sync with currently playing track  
+### 🖥️ Engine Overlay Real-Time
+- Menggunakan sistem berbasis Browser Source  
+- Sinkronisasi otomatis dengan lagu yang sedang diputar  
+- Tampilan overlay yang dapat dikustomisasi sepenuhnya  
 
-### 💬 TikTok Live Chat Integration
-- Automatic request detection from chat  
-- Keyword-based command system  
-- Seamless integration with live streaming environment  
+### 💬 Integrasi TikTok Live Chat
+- Deteksi request lagu langsung dari chat  
+- Sistem berbasis keyword (command)  
+- Otomatis masuk ke dalam queue tanpa intervensi manual  
 
-### 🎛️ Full Playback Control
+### 🎛️ Kontrol Pemutaran Lengkap
 - Play / Pause / Skip  
-- Volume control (depending on system setup)  
-- Real-time status monitoring  
+- Monitoring status lagu secara real-time  
+- Kontrol langsung tanpa mengganggu jalannya live  
 
-### 🔊 Multi-Device Audio Support
-- Compatible with:
+### 🔊 Dukungan Multi-Device Audio
+- Kompatibel dengan:
   - Virtual Audio Cable  
-  - External Sound Cards  
-  - Multi-output setups  
+  - Sound card eksternal  
+  - Multi-output audio system  
 
 ---
 
-## 🧩 System Architecture (Overview)
+## 🧩 Arsitektur Sistem
 
-DugeonTok Player is designed with a modular approach:
+DugeonTok Player dirancang dengan pendekatan modular untuk memastikan stabilitas dan fleksibilitas:
 
-- **Control Panel (Frontend)** → User interaction & control  
-- **Playback Engine (Backend / Local)** → Audio processing  
-- **Overlay Renderer (Browser Source)** → Visual output  
-- **Chat Listener Module** → Live request ingestion  
+- **Control Panel (Frontend)**  
+  Antarmuka utama untuk interaksi pengguna  
 
-This architecture ensures **stability, scalability, and flexibility** for different streaming setups.
+- **Playback Engine (Backend / Local)**  
+  Bertanggung jawab atas pemrosesan dan pemutaran audio  
 
----
+- **Overlay Renderer**  
+  Menampilkan informasi lagu secara visual di OBS / Streamlabs  
 
-## ⚙️ Installation & Setup
+- **Chat Integration Module**  
+  Mengelola input dari live chat (TikTok)  
 
-### Requirements
-- Windows OS (recommended)  
-- OBS Studio / Streamlabs  
-- Stable internet connection  
-
-### Steps
-
-1. **Launch Application**  
-   Open DugeonTok Player and access the control panel.
-
-2. **Configure Audio Output**  
-   Select the correct audio device (important for streaming).
-
-3. **Add Overlay to OBS**
-   - Copy the overlay URL  
-   - Add it as a **Browser Source**  
-   - Adjust position and size  
-
-4. **Enable Chat Integration**
-   - Connect TikTok Live  
-   - Set request keywords (if applicable)  
-
-5. **Start Streaming**
-   - Begin playback  
-   - Monitor queue and chat requests  
+Arsitektur ini memungkinkan aplikasi berjalan dengan **stabil, scalable, dan mudah dikembangkan** di masa depan.
 
 ---
 
-## 🎨 Overlay Customization
+## ⚙️ Instalasi & Penggunaan
 
-The overlay system is highly flexible and supports:
+### Persyaratan Sistem
+- Sistem Operasi Windows  
+- OBS Studio atau Streamlabs  
+- Koneksi internet stabil  
 
-- Text color & font customization  
-- Background styling  
-- Shadow & border effects  
-- Responsive positioning  
-- Animation support (if enabled)  
+### Langkah Instalasi
 
-This allows streamers to match the overlay with their **branding and visual identity**.
+1. **Jalankan Aplikasi**  
+   Buka DugeonTok Player dan akses panel kontrol utama  
 
----
+2. **Konfigurasi Audio**  
+   Pilih perangkat output audio yang sesuai  
 
-## ⚙️ Audio Configuration
+3. **Pasang Overlay ke OBS**
+   - Salin link overlay  
+   - Tambahkan sebagai Browser Source  
+   - Atur ukuran dan posisi  
 
-To ensure proper audio routing:
+4. **Aktifkan Integrasi Chat**
+   - Hubungkan dengan TikTok Live  
+   - Atur command jika diperlukan  
 
-- Select the correct **output device**
-- Use **Virtual Audio Cable** if needed
-- Test audio before going live
-- Ensure OBS captures the correct audio source
-
----
-
-## 📜 Terms of Service
-
-By using DugeonTok Player, you agree that:
-
-- The software is used in compliance with streaming platform policies  
-- Music content is sourced from third-party services (YouTube, Deezer)  
-- You are responsible for how the music is used during streams  
-- Features may change depending on third-party service availability  
+5. **Mulai Streaming**
+   - Jalankan musik  
+   - Pantau antrian dan request  
 
 ---
 
-## 🔒 Privacy Policy
+## 🎨 Kustomisasi Overlay
 
-We value user privacy:
+Overlay dapat disesuaikan sepenuhnya sesuai kebutuhan:
 
-- No sensitive personal data is collected without consent  
-- Configuration data is used only for application functionality  
-- Users should avoid sharing private information via public chat  
-- Data usage is limited to queue, overlay, and system configuration  
+- Warna teks dan font  
+- Background dan transparansi  
+- Shadow dan border  
+- Posisi dan ukuran  
+- Animasi (jika tersedia)  
+
+Hal ini memungkinkan streamer menyesuaikan tampilan dengan **branding dan identitas visual** masing-masing.
 
 ---
 
-## 📄 License
+## ⚙️ Konfigurasi Audio
+
+Untuk hasil terbaik:
+
+- Gunakan output device yang sesuai  
+- Gunakan Virtual Audio Cable jika diperlukan  
+- Lakukan testing sebelum live  
+- Pastikan OBS menangkap sumber audio yang benar  
+
+---
+
+## 📜 Ketentuan Penggunaan (Terms of Service)
+
+Dengan menggunakan aplikasi ini, pengguna menyetujui bahwa:
+
+- Penggunaan harus sesuai dengan kebijakan platform streaming  
+- Konten musik berasal dari layanan pihak ketiga  
+- Pengguna bertanggung jawab atas penggunaan konten selama live  
+- Fitur dapat berubah mengikuti kebijakan layanan eksternal  
+
+---
+
+## 🔒 Kebijakan Privasi (Privacy Policy)
+
+Kami berkomitmen menjaga privasi pengguna:
+
+- Tidak mengumpulkan data sensitif tanpa izin  
+- Data hanya digunakan untuk kebutuhan aplikasi  
+- Pengguna disarankan tidak membagikan data pribadi di chat publik  
+- Data terbatas pada konfigurasi, antrian, dan overlay  
+
+---
+
+## 📄 Lisensi
 
 **Al Farrizi License © 2026**  
-Copyright © 2026 Al Farrizi Studio. All rights reserved.
+Copyright © 2026 Al Farrizi Studio. Seluruh hak dilindungi.
 
-This software is protected under a custom license. Unauthorized modification, redistribution, or commercial resale without permission is strictly prohibited.
+Perangkat lunak ini dilindungi oleh lisensi khusus.  
+Dilarang keras untuk:
+
+- Memodifikasi  
+- Mendistribusikan ulang  
+- Menjual kembali  
+
+tanpa izin tertulis dari pemilik hak cipta.
 
 ---
 
-## 🤝 Contribution
+## 🤝 Kontribusi
 
-Currently, this project is not open for public contributions.  
-For collaboration or partnership inquiries, please contact the developer directly.
+Saat ini, proyek ini tidak dibuka untuk kontribusi publik.  
+Untuk kerja sama atau kolaborasi, silakan hubungi pengembang secara langsung.
 
 ---
 
-## 📌 Roadmap
+## 📌 Roadmap Pengembangan
 
-Planned improvements include:
+Pengembangan selanjutnya akan mencakup:
 
-- Better YouTube stability integration  
-- Enhanced overlay animations  
-- Advanced moderation tools  
-- Multi-platform chat support  
-- Web-based control panel  
+- Peningkatan stabilitas integrasi YouTube  
+- Animasi overlay yang lebih advanced  
+- Sistem moderasi request  
+- Dukungan multi-platform chat  
+- Versi web panel kontrol  
 
 ---
 
 ## ⚠️ Disclaimer
 
-This software is provided **"as is"**, without warranty of any kind.  
-The developer is not responsible for any damage, data loss, or service disruption.
+Perangkat lunak ini disediakan “sebagaimana adanya” tanpa jaminan apa pun.  
+Pengembang tidak bertanggung jawab atas kerusakan, kehilangan data, atau gangguan layanan.
 
 ---
 
-## ⭐ Support
+## ⭐ Dukungan
 
-If you find this project useful:
+Jika proyek ini membantu Anda:
 
-- ⭐ Star this repository  
-- 📢 Share with other streamers  
-- 💬 Provide feedback  
+- ⭐ Berikan star di repository  
+- 📢 Bagikan ke sesama streamer  
+- 💬 Berikan feedback untuk pengembangan  
 
 ---
 
-## 🧠 Final Notes
+## 🧠 Catatan Akhir
 
-DugeonTok Player is built to simplify streaming workflows and elevate production quality.  
-Continuous improvements will be made to ensure long-term reliability and performance.
+DugeonTok Player dikembangkan untuk menyederhanakan workflow streaming sekaligus meningkatkan kualitas produksi siaran.
+
+Pengembangan akan terus dilakukan untuk memastikan aplikasi tetap stabil, relevan, dan memberikan pengalaman terbaik bagi pengguna.
