@@ -18,14 +18,12 @@
 ## 🖼️ Preview
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AlFarrizi-Studio/DugeonTok-Player/refs/heads/main/Images/image-1.png" width="80%" />
+  <img src="https://raw.githubusercontent.com/AlFarrizi-Studio/DugeonTok-Player/refs/heads/main/Images/image-1.png" width="100%" />
   <br><br>
-  <img src="https://raw.githubusercontent.com/AlFarrizi-Studio/DugeonTok-Player/refs/heads/main/Images/image-2.png" width="80%" />
+  <img src="https://raw.githubusercontent.com/AlFarrizi-Studio/DugeonTok-Player/refs/heads/main/Images/image-2.png" width="100%" />
   <br><br>
-  <img src="https://raw.githubusercontent.com/AlFarrizi-Studio/DugeonTok-Player/refs/heads/main/Images/image-3.png" width="80%" />
+  <img src="https://raw.githubusercontent.com/AlFarrizi-Studio/DugeonTok-Player/refs/heads/main/Images/image-3.png" width="100%" />
 </p>
-
-> ⚠️ Silakan ganti gambar di atas dengan screenshot atau GIF asli dari aplikasi untuk tampilan yang lebih profesional.
 
 ---
 
