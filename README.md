@@ -187,17 +187,8 @@ Kami berkomitmen menjaga privasi pengguna:
 
 ## 📄 Lisensi
 
-**Al Farrizi License © 2026**  
-Copyright © 2026 Al Farrizi Studio. Seluruh hak dilindungi.
-
-Perangkat lunak ini dilindungi oleh lisensi khusus.  
-Dilarang keras untuk:
-
-- Memodifikasi  
-- Mendistribusikan ulang  
-- Menjual kembali  
-
-tanpa izin tertulis dari pemilik hak cipta.
+This project is licensed under the **Al Farrizi License © 2026**.
+See the LICENSE file for details.
 
 ---
 
