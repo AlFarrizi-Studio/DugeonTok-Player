@@ -1,7 +1,7 @@
 # 🎵 DugeonTok Player
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-1.0.0-blue" />
+  <img src="https://img.shields.io/badge/version-2.12.7-blue" />
   <img src="https://img.shields.io/badge/status-active-success" />
   <img src="https://img.shields.io/badge/license-Al%20Farrizi%202026-red" />
   <img src="https://img.shields.io/badge/platform-Windows-lightgrey" />
