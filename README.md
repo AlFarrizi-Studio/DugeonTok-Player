@@ -6,8 +6,9 @@
   <img src="https://img.shields.io/badge/license-Al%20Farrizi%202026-red" />
   <img src="https://img.shields.io/badge/platform-Windows-lightgrey" />
   <img src="https://img.shields.io/badge/build-stable-brightgreen" />
-  [![VirusTotal](https://img.shields.io/badge/VirusTotal-No%20Threats%20Detected-brightgreen?logo=virustotal)](https://www.virustotal.com/gui/file/46a733a5b1bfb9240d773b3fb9d2e5688643b8b4c0a82fef8bc6c1d28e9fa24c/detection)
 </p>
+
+[![VirusTotal](https://img.shields.io/badge/VirusTotal-No%20Threats%20Detected-brightgreen?logo=virustotal)](https://www.virustotal.com/gui/file/46a733a5b1bfb9240d773b3fb9d2e5688643b8b4c0a82fef8bc6c1d28e9fa24c/detection)
 
 <p align="center">
   <b>Panel Kontrol Musik Modern untuk Streamer</b><br>
