@@ -1,4 +1,12 @@
-# 🎵 DugeonTok Player
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AlFarrizi-Studio/DugeonTok-Player/refs/heads/main/Images/Icon.ico" width="80" />
+</p>
+
+<h1 align="center">DugeonTok Player</h1>
+
+<p align="center">
+  Modern Music Control Panel for Streamers
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/version-2.12.7-blue" />
