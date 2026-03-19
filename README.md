@@ -133,7 +133,7 @@ Arsitektur ini memungkinkan aplikasi berjalan dengan **stabil, scalable, dan mud
 ## ⚙️ Instalasi & Penggunaan
 
 ### Persyaratan Sistem
-- Sistem Operasi Windows  
+- Sistem Operasi Windows 10/11 
 - OBS Studio atau Streamlabs  
 - Koneksi internet stabil  
 
