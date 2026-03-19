@@ -23,6 +23,8 @@
   <img src="https://raw.githubusercontent.com/AlFarrizi-Studio/DugeonTok-Player/refs/heads/main/Images/image-2.png" width="100%" />
   <br><br>
   <img src="https://raw.githubusercontent.com/AlFarrizi-Studio/DugeonTok-Player/refs/heads/main/Images/image-3.png" width="100%" />
+  <br><br>
+  <img src="https://raw.githubusercontent.com/AlFarrizi-Studio/DugeonTok-Player/refs/heads/main/Images/overlay.png" width="100%" />
 </p>
 
 ---
