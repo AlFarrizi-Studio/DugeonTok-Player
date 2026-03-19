@@ -21,9 +21,6 @@
   
   <img src="https://img.shields.io/badge/build-stable-brightgreen" />
 </p>
-  
-  <img src="https://img.shields.io/badge/build-stable-brightgreen" />
-</p>
 
 <p align="center">
   <a href="https://www.virustotal.com/gui/file/46a733a5b1bfb9240d773b3fb9d2e5688643b8b4c0a82fef8bc6c1d28e9fa24c/detection">
