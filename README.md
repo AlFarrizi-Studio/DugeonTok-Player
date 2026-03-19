@@ -5,10 +5,6 @@
 <h1 align="center">DugeonTok Player</h1>
 
 <p align="center">
-  Modern Music Control Panel for Streamers
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/version-2.12.7-blue" />
   <img src="https://img.shields.io/badge/status-active-success" />
   <img src="https://img.shields.io/badge/license-Al%20Farrizi%202026-red" />
