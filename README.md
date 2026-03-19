@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/status-active-success" />
   
   <a href="https://img.shields.io/badge/license-Al%20Farrizi%202026-red">
-    <img src="https://img.shields.io/badge/license-Al%20Farrizi%202026-red" />
+    <img src="https://raw.githubusercontent.com/AlFarrizi-Studio/DugeonTok-Player/refs/heads/main/LICENSE" />
   </a>
   
   <img src="https://img.shields.io/badge/platform-Windows-lightgrey" />
