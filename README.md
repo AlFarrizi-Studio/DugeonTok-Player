@@ -5,7 +5,10 @@
 <h1 align="center">DugeonTok Player</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-2.12.7-blue" />
+  <a href="https://github.com/AlFarrizi-Studio/DugeonTok-Player/releases/tag/v2.12.7">
+    <img src="https://img.shields.io/badge/version-2.12.7-blue" />
+  </a>
+  
   <img src="https://img.shields.io/badge/status-active-success" />
   
   <a href="https://github.com/AlFarrizi-Studio/DugeonTok-Player/blob/main/LICENSE">
@@ -15,6 +18,9 @@
   <a href="https://github.com/AlFarrizi-Studio/DugeonTok-Player/releases/download/v2.12.7/DugeonTok-Player-Installer_v2.12.7.exe">
     <img src="https://img.shields.io/badge/platform-Windows-lightgrey?logo=windows" />
   </a>
+  
+  <img src="https://img.shields.io/badge/build-stable-brightgreen" />
+</p>
   
   <img src="https://img.shields.io/badge/build-stable-brightgreen" />
 </p>
