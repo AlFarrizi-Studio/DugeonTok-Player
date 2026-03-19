@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AlFarrizi-Studio/DugeonTok-Player/refs/heads/main/Images/Icon.ico" width="100" />
+  <img src="https://raw.githubusercontent.com/AlFarrizi-Studio/DugeonTok-Player/refs/heads/main/Images/Icon.ico" width="160" />
 </p>
 
 <h1 align="center">DugeonTok Player</h1>
