@@ -24,7 +24,7 @@
 
 <p align="center">
   <a href="https://www.virustotal.com/gui/file/46a733a5b1bfb9240d773b3fb9d2e5688643b8b4c0a82fef8bc6c1d28e9fa24c/detection">
-    <img src="https://img.shields.io/badge/VirusTotal-1%2F67%20(False%20Positive)-blue?logo=virustotal" />
+    <img src="https://img.shields.io/badge/VirusTotal-2%2F67%20(False%20Positive)-blue?logo=virustotal" />
   </a>
 </p>
 
