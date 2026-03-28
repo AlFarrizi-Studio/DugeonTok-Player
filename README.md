@@ -255,34 +255,3 @@ Jika proyek ini membantu Anda:
 DugeonTok Player dikembangkan untuk menyederhanakan workflow streaming sekaligus meningkatkan kualitas produksi siaran.
 
 Pengembangan akan terus dilakukan untuk memastikan aplikasi tetap stabil, relevan, dan memberikan pengalaman terbaik bagi pengguna.
-
-
-<p align="center">
-  <a href="https://github.com/AlFarrizi-Studio/DugeonTok-Player/releases/tag/v2.12.9">
-    <img src="https://img.shields.io/badge/version-2.12.9-blue" />
-  </a>
-  
-  <img src="https://img.shields.io/badge/status-active-success" />
-  
-  <a href="https://github.com/AlFarrizi-Studio/DugeonTok-Player/blob/main/LICENSE">
-    <img src="https://img.shields.io/badge/license-Al%20Farrizi%202026-red" />
-  </a>
-  
-  <a href="https://github.com/AlFarrizi-Studio/DugeonTok-Player/releases/download/v2.12.9/DugeonTok-Player-Installer_v2.12.9.exe">
-    <img src="https://img.shields.io/badge/platform-Windows-lightgrey?logo=windows" />
-  </a>
-  
-  <img src="https://img.shields.io/badge/build-stable-brightgreen" />
-</p>
-
-<p align="center">
-  <a href="https://www.virustotal.com/gui/file/24b5610c42c2b18bd5cf2789e9ba5df438f4ab82f4be4630a70ac283100c8a3f/detection">
-    <img src="https://img.shields.io/badge/VirusTotal-0%2F53-blue?logo=virustotal" />
-  </a>
-  
-  <img src="https://img.shields.io/badge/Avast-Undetected-success?logo=avast" />
-  <img src="https://img.shields.io/badge/Kaspersky-Undetected-success?logo=kaspersky" />
-  <img src="https://img.shields.io/badge/AVG-Undetected-success?logo=avg" />
-  <img src="https://img.shields.io/badge/Defender-Undetected-success?logo=windows" />
-  <img src="https://img.shields.io/badge/McAfee-Undetected-success?logo=mcafee" />
-</p>
