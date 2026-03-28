@@ -23,8 +23,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.virustotal.com/gui/file/24b5610c42c2b18bd5cf2789e9ba5df438f4ab82f4be4630a70ac283100c8a3f/detection">
-    <img src="https://img.shields.io/badge/VirusTotal-0%2F53%20-blue?logo=virustotal" />
+  <a href="https://www.virustotal.com/gui/file/6b3043c79a0d462672720ab2f7e16c43a760ae5f10a68891b2f1ffe96fd7c787/detection">
+    <img src="https://img.shields.io/badge/VirusTotal-0%2F55%20-blue?logo=virustotal" />
   </a>
 </p>
 
