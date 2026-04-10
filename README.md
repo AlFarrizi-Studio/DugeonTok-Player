@@ -15,8 +15,12 @@
     <img src="https://img.shields.io/badge/license-Al%20Farrizi%202026-red" />
   </a>
   
-  <a href="https://github.com/AlFarrizi-Studio/DugeonTok-Player/releases/download/v2.13.1/DugeonTok-Player-Installer_v2.13.1_x64.exe">
-    <img src="https://img.shields.io/badge/platform-Windows-lightgrey?logo=windows" />
+  <a href="https://github.com/AlFarrizi-Studio/DugeonTok-Player/releases">
+    <img src="https://img.shields.io/badge/platform-Windows%20x86%20(32--bit)-0078D6?logo=windows" />
+  </a>
+  
+  <a href="https://github.com/AlFarrizi-Studio/DugeonTok-Player/releases">
+    <img src="https://img.shields.io/badge/platform-Windows%20x64%20(64--bit)-0078D6?logo=windows" />
   </a>
   
   <img src="https://img.shields.io/badge/build-stable-brightgreen" />
@@ -29,8 +33,8 @@
 </p>
 
 <p align="center">
-  <b>Panel Kontrol Musik Modern untuk Streamer</b><br>
-  Kelola request lagu, antrian, dan overlay streaming secara real-time dengan mudah dan profesional.
+  <b>A Modern Music Control Panel for Streamers</b><br>
+  Manage song requests, queues, and streaming overlays in real-time with ease and professionalism.
 </p>
 
 ---
@@ -49,210 +53,242 @@
 
 ---
 
-## ✨ Pendahuluan
+## ✨ Introduction
 
-**DugeonTok Player** merupakan sebuah panel kontrol modern yang dirancang khusus untuk membantu streamer dalam mengelola pemutaran musik, menerima request lagu dari audiens, serta menampilkan overlay streaming secara **real-time**.
+**DugeonTok Player** is a modern control panel designed specifically to help streamers manage music playback, receive song requests from viewers, and display streaming overlays in **real-time**.
 
-Aplikasi ini dikembangkan dengan tujuan untuk memberikan pengalaman streaming yang **lebih terstruktur, responsif, dan profesional**, dengan mengintegrasikan seluruh kebutuhan kontrol musik ke dalam satu sistem yang efisien.
+This application was developed to provide a **more organized, responsive, and professional** streaming experience by integrating all music control needs into one efficient system.
 
-Melalui DugeonTok Player, pengguna tidak perlu lagi berpindah-pindah aplikasi untuk mengatur musik selama live streaming. Seluruh proses mulai dari **request lagu, pengelolaan antrian, kontrol pemutaran, hingga sinkronisasi tampilan overlay** dapat dilakukan dalam satu panel terpadu.
+With DugeonTok Player, users no longer need to switch between multiple applications to manage music during live streams. Everything from **song requests, queue management, playback control, to overlay synchronization** can be handled in one unified panel.
 
-Selain itu, aplikasi ini juga mendukung integrasi dengan **TikTok Live Chat**, sehingga penonton dapat berinteraksi secara langsung dengan mengirimkan request lagu yang akan diproses secara otomatis oleh sistem.
-
----
-
-## 🎯 Tujuan Pengembangan
-
-DugeonTok Player dikembangkan dengan beberapa tujuan utama:
-
-- Menyediakan **sistem kontrol musik terpusat** untuk kebutuhan live streaming  
-- Meningkatkan **interaksi real-time antara streamer dan audiens**  
-- Menjaga **konsistensi tampilan overlay** agar terlihat profesional  
-- Mengurangi kompleksitas workflow selama siaran langsung  
-- Meningkatkan **pengalaman dan engagement penonton**  
+In addition, the application also supports integration with **TikTok Live Chat**, allowing viewers to interact directly by sending song requests that are automatically processed by the system.
 
 ---
 
-## 🚀 Fitur Utama
+## 🎯 Development Goals
 
-### 🎶 Sistem Request Lagu Otomatis
-- Mendukung request lagu dari:
-  - YouTube  
-  - Deezer   
-  - Spotify  
-- Pemrosesan link dan pencarian lagu secara otomatis  
-- Integrasi langsung ke dalam sistem antrian  
+DugeonTok Player was developed with the following main goals:
 
-### 📋 Manajemen Antrian (Queue)
-- Sistem antrian dinamis dan real-time  
-- Pengaturan urutan lagu secara fleksibel  
-- Fitur skip, prioritas, dan auto-play  
-
-### 🖥️ Engine Overlay Real-Time
-- Menggunakan sistem berbasis Browser Source  
-- Sinkronisasi otomatis dengan lagu yang sedang diputar  
-- Tampilan overlay yang dapat dikustomisasi sepenuhnya  
-
-### 💬 Integrasi TikTok Live Chat
-- Deteksi request lagu langsung dari chat  
-- Sistem berbasis keyword (command)  
-- Otomatis masuk ke dalam queue tanpa intervensi manual  
-
-### 🎛️ Kontrol Pemutaran Lengkap
-- Play / Pause / Skip  
-- Monitoring status lagu secara real-time  
-- Kontrol langsung tanpa mengganggu jalannya live  
-
-### 🔊 Dukungan Multi-Device Audio
-- Kompatibel dengan:
-  - Virtual Audio Cable  
-  - Sound card eksternal  
-  - Multi-output audio system  
+- Provide a **centralized music control system** for live streaming needs
+- Improve **real-time interaction between streamers and viewers**
+- Maintain **consistent overlay visuals** for a professional appearance
+- Reduce workflow complexity during live broadcasts
+- Improve **viewer experience and engagement**
 
 ---
 
-## 🧩 Arsitektur Sistem
+## 🚀 Main Features
 
-DugeonTok Player dirancang dengan pendekatan modular untuk memastikan stabilitas dan fleksibilitas:
+### 🎶 Automatic Song Request System
+- Supports song requests from:
+  - YouTube
+  - Deezer
+  - Spotify
+- Automatic link processing and song search
+- Direct integration into the queue system
+
+### 📋 Queue Management
+- Dynamic and real-time queue system
+- Flexible song ordering
+- Skip, priority, and auto-play features
+
+### 🖥️ Real-Time Overlay Engine
+- Uses a Browser Source-based system
+- Automatically syncs with the currently playing song
+- Fully customizable overlay appearance
+
+### 💬 TikTok Live Chat Integration
+- Detects song requests directly from chat
+- Keyword-based command system
+- Automatically adds requests to the queue without manual intervention
+
+### 🎛️ Complete Playback Control
+- Play / Pause / Skip
+- Real-time song status monitoring
+- Direct control without interrupting the stream
+
+### 🔊 Multi-Device Audio Support
+- Compatible with:
+  - Virtual Audio Cable
+  - External sound card
+  - Multi-output audio system
+
+---
+
+## 🧩 System Architecture
+
+DugeonTok Player is designed with a modular approach to ensure stability and flexibility:
 
 - **Control Panel (Frontend)**  
-  Antarmuka utama untuk interaksi pengguna  
+  Main user interface for interaction
 
 - **Playback Engine (Backend / Local)**  
-  Bertanggung jawab atas pemrosesan dan pemutaran audio  
+  Responsible for audio processing and playback
 
 - **Overlay Renderer**  
-  Menampilkan informasi lagu secara visual di OBS / Streamlabs  
+  Displays song information visually in OBS, Streamlabs, TikTok LIVE Studio, etc
 
 - **Chat Integration Module**  
-  Mengelola input dari live chat (TikTok)  
+  Manages input from live chat (TikTok)
 
-Arsitektur ini memungkinkan aplikasi berjalan dengan **stabil, scalable, dan mudah dikembangkan** di masa depan.
-
----
-
-## ⚙️ Instalasi & Penggunaan
-
-### Persyaratan Sistem
-- Sistem Operasi Windows 10/11 
-- OBS Studio, Streamlabs, TikTok Live Studio, dll
-- Koneksi internet stabil  
-
-### Langkah Instalasi
-
-1. **Jalankan Aplikasi**  
-   Buka DugeonTok Player dan akses panel kontrol utama  
-
-2. **Konfigurasi Audio**  
-   Pilih perangkat output audio yang sesuai  
-
-3. **Pasang Overlay ke OBS**
-   - Salin link overlay  
-   - Tambahkan sebagai Browser Source  
-   - Atur ukuran dan posisi  
-
-4. **Aktifkan Integrasi Chat**
-   - Hubungkan dengan TikTok Live  
-   - Atur command jika diperlukan  
-
-5. **Mulai Streaming**
-   - Jalankan musik  
-   - Pantau antrian dan request  
+This architecture allows the application to run **stably, scalably, and be easier to develop further** in the future.
 
 ---
 
-## 🎨 Kustomisasi Overlay
+## 🌍 Global Language Support
 
-Overlay dapat disesuaikan sepenuhnya sesuai kebutuhan:
+DugeonTok Player is available in **50 languages**, ensuring accessibility for streamers and audiences worldwide.
 
-- Warna teks dan font  
-- Background dan transparansi  
-- Shadow dan border  
-- Posisi dan ukuran  
-- Animasi (jika tersedia)  
+<details>
+<summary><b>View Supported Languages (50)</b></summary>
 
-Hal ini memungkinkan streamer menyesuaikan tampilan dengan **branding dan identitas visual** masing-masing.
+| Language | Language | Language |
+|----------|----------|----------|
+| 🇺🇸 English | 🇮🇩 Indonesian | 🇸🇦 Arabic |
+| 🇨🇳 Chinese (Simplified) | 🇹🇼 Chinese (Traditional) | 🇯🇵 Japanese |
+| 🇰🇷 Korean | 🇮🇳 Hindi | 🇮🇳 Marathi |
+| 🇮🇳 Tamil | 🇮🇳 Telugu | 🇮🇳 Punjabi |
+| 🇧🇩 Bengali | 🇵🇰 Urdu | 🇻🇳 Vietnamese |
+| 🇹🇭 Thai | 🇰🇭 Khmer | 🇱🇦 Lao |
+| 🇲🇲 Burmese | 🇲🇾 Malay | 🇵🇭 Filipino |
+| 🇫🇷 French | 🇩🇪 German | 🇮🇹 Italian |
+| 🇪🇸 Spanish | 🇵🇹 Portuguese | 🇳🇱 Dutch |
+| 🇷🇺 Russian | 🇵🇱 Polish | 🇺🇦 Ukrainian |
+| 🇨🇿 Czech | 🇭🇺 Hungarian | 🇷🇴 Romanian |
+| 🇧🇬 Bulgarian | 🇭🇷 Croatian | 🇷🇸 Serbian |
+| 🇸🇰 Slovak | 🇸🇮 Slovenian | 🇱🇻 Latvian |
+| 🇱🇹 Lithuanian | 🇪🇪 Estonian | 🇫🇮 Finnish |
+| 🇸🇪 Swedish | 🇳🇴 Norwegian | 🇩🇰 Danish |
+| 🇬🇷 Greek | 🇹🇷 Turkish | 🇮🇷 Persian |
+| 🇦🇱 Albanian | 🇮🇸 Icelandic | |
 
----
-
-## ⚙️ Konfigurasi Audio
-
-Untuk hasil terbaik:
-
-- Gunakan output device yang sesuai  
-- Gunakan Virtual Audio Cable jika diperlukan  
-- Lakukan testing sebelum live  
-- Pastikan OBS menangkap sumber audio yang benar  
-
----
-
-## 📜 Ketentuan Penggunaan (Terms of Service)
-
-Dengan menggunakan aplikasi ini, pengguna menyetujui bahwa:
-
-- Penggunaan harus sesuai dengan kebijakan platform streaming  
-- Konten musik berasal dari layanan pihak ketiga  
-- Pengguna bertanggung jawab atas penggunaan konten selama live  
-- Fitur dapat berubah mengikuti kebijakan layanan eksternal  
+</details>
 
 ---
 
-## 🔒 Kebijakan Privasi (Privacy Policy)
+## ⚙️ Installation & Usage
 
-Kami berkomitmen menjaga privasi pengguna:
+### System Requirements
+- **Operating System:** Windows 10/11
+- **Architecture:** x86 (32-bit) or x64 (64-bit)
+- **Streaming Software:** OBS Studio, Streamlabs, TikTok Live Studio, or similar
+- **Network:** Stable internet connection
 
-- Tidak mengumpulkan data sensitif tanpa izin  
-- Data hanya digunakan untuk kebutuhan aplikasi  
-- Pengguna disarankan tidak membagikan data pribadi di chat publik  
-- Data terbatas pada konfigurasi, antrian, dan overlay  
+### Installation Steps
+
+1. **Download & Run**  
+   Download the appropriate installer for your system architecture (x86 or x64) and launch DugeonTok Player.
+
+2. **Configure Audio**  
+   Select the appropriate output audio device in settings.
+
+3. **Setup Overlay in OBS**
+   - Copy the overlay URL from the application
+   - Add it as a Browser Source in your streaming software
+   - Adjust dimensions and positioning as needed
+
+4. **Enable Chat Integration**
+   - Connect your TikTok Live account
+   - Configure command keywords (optional)
+
+5. **Start Streaming**
+   - Begin music playback
+   - Monitor requests and queue in real-time
 
 ---
 
-## 📄 Lisensi
+## 🎨 Overlay Customization
 
-This project is licensed under the **Al Farrizi License © 2026**.
+The overlay can be fully customized to fit your needs:
+
+- Text color and font
+- Background and transparency
+- Shadow and border
+- Position and size
+- Animations (if available)
+
+This allows streamers to match the overlay with their **brand and visual identity**.
+
+---
+
+## ⚙️ Audio Configuration
+
+For the best results:
+
+- Use the appropriate output device
+- Use Virtual Audio Cable if needed
+- Test before going live
+- Make sure OBS is capturing the correct audio source
+
+---
+
+## 📜 Terms of Service
+
+By using this application, users agree that:
+
+- Usage must comply with streaming platform policies
+- Music content comes from third-party services
+- Users are responsible for the content used during live streams
+- Features may change according to external service policies
+
+---
+
+## 🔒 Privacy Policy
+
+We are committed to protecting user privacy:
+
+- We do not collect sensitive data without permission
+- Data is used only for application purposes
+- Users are advised not to share personal data in public chats
+- Data is limited to configuration, queue, and overlay information
+
+---
+
+## 📄 License
+
+This project is licensed under the **Al Farrizi License © 2026**.  
 See the LICENSE file for details.
 
 ---
 
-## 🤝 Kontribusi
+## 🤝 Contribution
 
-Saat ini, proyek ini tidak dibuka untuk kontribusi publik.  
-Untuk kerja sama atau kolaborasi, silakan hubungi pengembang secara langsung.
+At this time, the project is not open to public contributions.  
+For partnerships or collaboration, please contact the developer directly.
 
 ---
 
-## 📌 Roadmap Pengembangan
+## 📌 Development Roadmap
 
-Pengembangan selanjutnya akan mencakup:
+Future development will include:
 
-- Peningkatan stabilitas integrasi YouTube  
-- Animasi overlay yang lebih advanced  
-- Sistem moderasi request  
-- Dukungan multi-platform chat  
-- Versi web panel kontrol  
+- Improved YouTube integration stability
+- More advanced overlay animations
+- Request moderation system
+- Multi-platform chat support
+- Web-based control panel version
 
 ---
 
 ## ⚠️ Disclaimer
 
-Perangkat lunak ini disediakan “sebagaimana adanya” tanpa jaminan apa pun.  
-Pengembang tidak bertanggung jawab atas kerusakan, kehilangan data, atau gangguan layanan.
+This software is provided "as is" without any warranties.  
+The developer is not responsible for damage, data loss, or service disruptions.
 
 ---
 
-## ⭐ Dukungan
+## ⭐ Support
 
-Jika proyek ini membantu Anda:
+If this project helps you:
 
-- ⭐ Berikan star di repository  
-- 📢 Bagikan ke sesama streamer  
-- 💬 Berikan feedback untuk pengembangan  
+- ⭐ Give the repository a star
+- 📢 Share it with fellow streamers
+- 💬 Provide feedback for future development
 
 ---
 
-## 🧠 Catatan Akhir
+## 🧠 Final Notes
 
-DugeonTok Player dikembangkan untuk menyederhanakan workflow streaming sekaligus meningkatkan kualitas produksi siaran.
+DugeonTok Player was developed to simplify the streaming workflow while improving the production quality of live broadcasts.
 
-Pengembangan akan terus dilakukan untuk memastikan aplikasi tetap stabil, relevan, dan memberikan pengalaman terbaik bagi pengguna.
+Development will continue to ensure the application remains stable, relevant, and provides the best possible experience for users.
