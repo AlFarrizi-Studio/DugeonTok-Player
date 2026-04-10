@@ -78,7 +78,8 @@ DugeonTok Player dikembangkan dengan beberapa tujuan utama:
 ### 🎶 Sistem Request Lagu Otomatis
 - Mendukung request lagu dari:
   - YouTube  
-  - Deezer  
+  - Deezer   
+  - Spotify  
 - Pemrosesan link dan pencarian lagu secara otomatis  
 - Integrasi langsung ke dalam sistem antrian  
 
@@ -134,7 +135,7 @@ Arsitektur ini memungkinkan aplikasi berjalan dengan **stabil, scalable, dan mud
 
 ### Persyaratan Sistem
 - Sistem Operasi Windows 10/11 
-- OBS Studio atau Streamlabs  
+- OBS Studio, Streamlabs, TikTok Live Studio, dll
 - Koneksi internet stabil  
 
 ### Langkah Instalasi
