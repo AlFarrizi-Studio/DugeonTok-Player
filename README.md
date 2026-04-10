@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/license-Al%20Farrizi%202026-red" />
   </a>
   
-  <a href="https://github.com/AlFarrizi-Studio/DugeonTok-Player/releases/download/v2.13/DugeonTok-Player-Installer_v2.13.0.exe">
+  <a href="https://github.com/AlFarrizi-Studio/DugeonTok-Player/releases/download/v2.13.1/DugeonTok-Player-Installer_v2.13.1_x64.exe">
     <img src="https://img.shields.io/badge/platform-Windows-lightgrey?logo=windows" />
   </a>
   
