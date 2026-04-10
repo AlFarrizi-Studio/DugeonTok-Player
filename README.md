@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/platform-Windows%20x86%20(32--bit)-0078D6?logo=windows" />
   </a>
   
-  <a href="https://github.com/AlFarrizi-Studio/DugeonTok-Player/releases">
+  <a href="https://github.com/AlFarrizi-Studio/DugeonTok-Player/releases/download/v2.13.1/DugeonTok-Player-Installer_v2.13.1_x64.exe">
     <img src="https://img.shields.io/badge/platform-Windows%20x64%20(64--bit)-0078D6?logo=windows" />
   </a>
   
