@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/AlFarrizi-Studio/DugeonTok-Player/releases/tag/v2.13">
-    <img src="https://img.shields.io/badge/version-2.13-blue" />
+    <img src="https://img.shields.io/badge/version-2.13.1-blue" />
   </a>
   
   <img src="https://img.shields.io/badge/status-active-success" />
