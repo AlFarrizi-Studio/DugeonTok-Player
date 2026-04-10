@@ -3,76 +3,80 @@ Al Farrizi License © 2026
 Copyright © 2026 Al Farrizi Studio.
 All rights reserved.
 
-1. DEFINISI
+1. DEFINITION
 
-"Perangkat Lunak" merujuk pada DugeonTok Player beserta seluruh kode sumber,
-biner, dokumentasi, aset, dan komponen terkait lainnya yang dikembangkan
-oleh Al Farrizi Studio.
+"Software" refers to DugeonTok Player along with all source code,
+binaries, documentation, assets, and other related components developed
+by Al Farrizi Studio.
 
-2. HAK KEPEMILIKAN
+2. OWNERSHIP
 
-Seluruh hak cipta, hak kekayaan intelektual, dan kepemilikan atas Perangkat Lunak
-ini sepenuhnya dimiliki oleh Al Farrizi Studio. Lisensi ini tidak memberikan
-pengalihan kepemilikan apa pun kepada pengguna.
+All copyrights, intellectual property rights, and ownership of this
+Software are entirely owned by Al Farrizi Studio. This license does not
+grant any transfer of ownership to the user.
 
-3. IZIN PENGGUNAAN
+3. USAGE PERMISSION
 
-Pengguna diberikan izin terbatas untuk:
+The user is granted a limited license to:
 
-- Menggunakan Perangkat Lunak untuk keperluan pribadi maupun komersial
-- Menjalankan dan mengoperasikan aplikasi sesuai fungsi utamanya
-- Menggunakan fitur yang tersedia tanpa melakukan perubahan terhadap sistem inti
+- Use the Software for personal or commercial purposes
+- Run and operate the application according to its primary function
+- Use available features without making changes to the core system
 
-4. PEMBATASAN
+4. RESTRICTIONS
 
-Tanpa izin tertulis dari pemilik hak cipta, pengguna DILARANG untuk:
+Without written permission from the copyright owner, the user is
+PROHIBITED from:
 
-- Menyalin, mendistribusikan, atau menyebarluaskan Perangkat Lunak
-- Memodifikasi, mengubah, atau membuat turunan dari Perangkat Lunak
-- Melakukan reverse engineering, dekompilasi, atau pembongkaran sistem
-- Menghapus atau mengubah atribusi kepemilikan
-- Menjual, menyewakan, atau melisensikan ulang Perangkat Lunak
-- Menggunakan Perangkat Lunak untuk aktivitas ilegal atau melanggar kebijakan platform
+- Copying, distributing, or disseminating the Software
+- Modifying, altering, or creating derivative works from the Software
+- Performing reverse engineering, decompilation, or disassembly of the
+  system
+- Removing or altering ownership attribution
+- Selling, renting, or sub-licensing the Software
+- Using the Software for illegal activities or violating platform
+  policies
 
-5. KETERGANTUNGAN PIHAK KETIGA
+5. THIRD-PARTY DEPENDENCIES
 
-Perangkat Lunak ini dapat menggunakan layanan pihak ketiga seperti YouTube,
-Deezer, atau layanan lainnya. Penggunaan layanan tersebut tunduk pada
-syarat dan ketentuan masing-masing penyedia.
+This Software may use third-party services such as YouTube, Deezer, or
+other services. The use of such services is subject to the terms and
+conditions of each respective provider.
 
-Al Farrizi Studio tidak memiliki afiliasi resmi dengan layanan pihak ketiga tersebut.
+Al Farrizi Studio has no official affiliation with these third-party
+services.
 
 6. DISCLAIMER
 
-Perangkat Lunak disediakan "SEBAGAIMANA ADANYA" tanpa jaminan dalam bentuk apa pun,
-baik tersurat maupun tersirat, termasuk namun tidak terbatas pada jaminan
-kelayakan untuk tujuan tertentu.
+The Software is provided "AS IS" without warranty of any kind, either
+express or implied, including but not limited to warranties of fitness
+for a particular purpose.
 
-7. BATASAN TANGGUNG JAWAB
+7. LIMITATION OF LIABILITY
 
-Dalam keadaan apa pun, Al Farrizi Studio tidak bertanggung jawab atas:
+Under no circumstances shall Al Farrizi Studio be liable for:
 
-- Kerusakan sistem
-- Kehilangan data
-- Gangguan layanan
-- Kerugian langsung maupun tidak langsung
+- System damage
+- Data loss
+- Service interruption
+- Direct or indirect losses
 
-yang timbul akibat penggunaan atau ketidakmampuan menggunakan Perangkat Lunak.
+arising from the use or inability to use the Software.
 
-8. PENGHENTIAN LISENSI
+8. LICENSE TERMINATION
 
-Lisensi ini dapat dicabut sewaktu-waktu apabila pengguna melanggar
-ketentuan yang berlaku.
+This license may be revoked at any time if the user violates the
+applicable terms.
 
-9. PERUBAHAN LISENSI
+9. LICENSE MODIFICATION
 
-Al Farrizi Studio berhak untuk memperbarui atau mengubah lisensi ini
-kapan saja tanpa pemberitahuan sebelumnya.
+Al Farrizi Studio reserves the right to update or modify this license
+at any time without prior notice.
 
-10. PERSETUJUAN
+10. AGREEMENT
 
-Dengan menggunakan Perangkat Lunak ini, pengguna dianggap telah membaca,
-memahami, dan menyetujui seluruh ketentuan dalam lisensi ini.
+By using this Software, the user is deemed to have read, understood,
+and agreed to all terms in this license.
 
 ---
 
