@@ -5,7 +5,7 @@
 <h1 align="center">DugeonTok Player</h1>
 
 <p align="center">
-  <a href="https://github.com/AlFarrizi-Studio/DugeonTok-Player/releases/tag/v2.13.1">
+  <a href="https://github.com/AlFarrizi-Studio/DugeonTok-Player/releases/tag/v2.13.2">
     <img src="https://img.shields.io/badge/version-2.13.1-blue" />
   </a>
   
