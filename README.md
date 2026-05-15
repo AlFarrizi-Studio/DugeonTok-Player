@@ -5,8 +5,8 @@
 <h1 align="center">DugeonTok Player</h1>
 
 <p align="center">
-  <a href="https://github.com/AlFarrizi-Studio/DugeonTok-Player/releases/tag/v2.13.4">
-    <img src="https://img.shields.io/badge/version-2.13.4-blue" />
+  <a href="https://github.com/AlFarrizi-Studio/DugeonTok-Player/releases/tag/v2.13.5">
+    <img src="https://img.shields.io/badge/version-2.13.5-blue" />
   </a>
   
   <img src="https://img.shields.io/badge/status-active-success" />
@@ -15,11 +15,11 @@
     <img src="https://img.shields.io/badge/license-Al%20Farrizi%202026-red" />
   </a>
   
-  <a href="https://github.com/AlFarrizi-Studio/DugeonTok-Player/releases/download/v2.13.4/DugeonTok-Player-Installer_v2.13.4_x86.exe">
+  <a href="https://github.com/AlFarrizi-Studio/DugeonTok-Player/releases/download/v2.13.4/DugeonTok-Player-Installer_v2.13.5_x86.exe">
     <img src="https://img.shields.io/badge/platform-Windows%20x86%20(32--bit)-0078D6?logo=windows" />
   </a>
   
-  <a href="https://github.com/AlFarrizi-Studio/DugeonTok-Player/releases/download/v2.13.4/DugeonTok-Player-Installer_v2.13.4_x64.exe">
+  <a href="https://github.com/AlFarrizi-Studio/DugeonTok-Player/releases/download/v2.13.5/DugeonTok-Player-Installer_v2.13.5_x64.exe">
     <img src="https://img.shields.io/badge/platform-Windows%20x64%20(64--bit)-0078D6?logo=windows" />
   </a>
   
