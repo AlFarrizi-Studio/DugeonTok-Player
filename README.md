@@ -27,8 +27,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.virustotal.com/gui/file/00f948d6433f2e822e83113c15701fcb8f90013839f0fb2a242f90048ebf602c">
-    <img src="https://img.shields.io/badge/VirusTotal-1%2F55%20-blue?logo=virustotal" />
+  <a href="https://www.virustotal.com/gui/file/70084dc4cb596312be9a1fba9d66af4beda7e09cef2e7c6c3d20bf588bc3f0c1?nocache=1">
+    <img src="https://img.shields.io/badge/VirusTotal-0%2F51%20-blue?logo=virustotal" />
   </a>
 </p>
 
